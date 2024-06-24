@@ -33,10 +33,6 @@ Open your preferred Integrated Development Environment (IDE) and load the `main.
 
 Simply run the `main.py` script from your IDE. The game window should open, and you can start playing!
 
-Alternatively, you can run the game from the command line:
-
-```bash
-python main.py
 ## Contributing
 
 Contributions are welcome! If you have any suggestions or improvements, feel free to create a pull request or open an issue.
